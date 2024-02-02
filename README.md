@@ -4,4 +4,4 @@ It allows you to:
 * calculate elo-ratings for players
 * book table and check queue
 
-Deploy instruction is coming ...
+Deploy instruction and brief explanation is [here](https://habr.com/ru/articles/791084/)
